@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/371.9d0c7330.chunk.css","mappings":"AAAA,4BAAe,+BAAgC,CAC3C,uCACJ,CAEA,sBAAM,SAAY","sources":["Styles/Products.module.css"],"sourcesContent":[".card:hover{   box-shadow: 0 0 12px 6px #cacaca;\r\n    -webkit-box-shadow: 0 0 12px 6px #cacaca; \r\n}\r\n\r\n.card{width: 30%; }"],"names":[],"sourceRoot":""}
